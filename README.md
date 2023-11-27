@@ -1,10 +1,5 @@
 # CryptoClustering
 
-**Cryptocurrency Price Change Prediction Project Overview:**
-
-**Introduction:**
-Welcome to the Cryptocurrency Price Change Prediction project! In this endeavor, Python and unsupervised learning techniques were harnessed to forecast the impact of 24-hour or 7-day price changes on cryptocurrencies.
-
 **Project Focus:**
 Cryptocurrencies, renowned for their price volatility, present an intriguing subject for analysis. This project specifically delves into employing unsupervised learning techniques to anticipate how cryptocurrencies respond to price fluctuations across different time intervals. The methodology encompasses the use of StandardScaler from scikit-learn to normalize the data, leveraging the elbow method to discern the optimal number of clusters (k), and implementing K-means clustering to categorize cryptocurrencies. Additionally, Principal Component Analysis (PCA) is explored to optimize clusters and identify the best value of k for the reduced dataset.
 
